@@ -15,7 +15,7 @@ Hi there, I'm Jenifer! 👋
 
 🛠️ Technical Skills
 
-- Languages: Python, JavaScript
+- Languages: Python,c
 - Frontend: HTML, CSS
 - Backend: Django
 - Tools: Git, GitHub, VS Code
